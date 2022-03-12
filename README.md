@@ -1,1 +1,1 @@
-# Goto [Discussions](https://github.com/elliotchance/rateyourmusic-todo/discussions)
+# Goto [Issues](https://github.com/elliotchance/rateyourmusic-todo/issues)
