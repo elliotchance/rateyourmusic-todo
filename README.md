@@ -1,2 +1,1 @@
-# rateyourmusic-todo
-Discussion and queue for entities that need editing help
+# Goto [Discussions](https://github.com/elliotchance/rateyourmusic-todo/discussions)
